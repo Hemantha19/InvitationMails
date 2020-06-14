@@ -20,7 +20,7 @@ namespace InvitationMail
             string body = string.Empty;
             //string title; 
             //string Firstname, string surname, string productname, string payoutamount, string annualpremium
-            string FileSaveWithPath = "C:\\Users\\heman\\source\\repos\\ConsoleApp1\\ConsoleApp1\\MailBody.html";
+            string FileSaveWithPath = "C:\\Users\\heman\\source\\repos\\ConsoleApp1\\InvitationMails\\ConsoleApp1\\MailBody.html";
 
             using (StreamReader reader = new StreamReader(FileSaveWithPath))
             {
