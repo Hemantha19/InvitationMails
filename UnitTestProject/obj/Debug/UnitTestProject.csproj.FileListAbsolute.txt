@@ -1,0 +1,17 @@
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\ConsoleApp1.exe
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\ConsoleApp1.pdb
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\ConsoleApp1.exe.config
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\heman\source\repos\ConsoleApp1\UnitTestProject\bin\Debug\Data.csv
